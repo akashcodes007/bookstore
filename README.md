@@ -78,4 +78,3 @@ This version of the project covers only the **Backend** part using Node.js, Expr
 
 ---
 
-> ✅ This breakdown keeps everything backend-only while still using the original 22-session format. No React or frontend code is included.
